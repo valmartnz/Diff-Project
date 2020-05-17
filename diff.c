@@ -16,6 +16,7 @@
 
 #include "para.h"
 #include "util.h"
+#include "diff.h"
 
 void version(void) {
   printf("\n\n\ndiff (CSUF diffutils) 1.0.0\n");
